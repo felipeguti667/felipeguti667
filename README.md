@@ -21,13 +21,13 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL — efeito de inicialização de sistema -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=800e13&animation=fadeIn&fontAlignY=38&desc=Initializing%20Profile%20of%20Seu%20Nome...&descAlignY=58&descSize=20&descColor=250902" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=219ebc&animation=fadeIn&fontAlignY=38&desc=Initializing%20Profile%20of%20Seu%20Nome...&descAlignY=58&descSize=20&descColor=250902" width="100%"/>
 
 <br/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=800e13&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Booting+neural+interface...;Ol%C3%A1%2C+eu+sou+Seu+Nome+%F0%9F%A4%96;Full-Stack+Developer+%7C+AI+Enthusiast;Compilando+ideias+em+c%C3%B3digo+desde+20XX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=219ebc&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Booting+neural+interface...;Ol%C3%A1%2C+eu+sou+Seu+Nome+%F0%9F%A4%96;Full-Stack+Developer+%7C+AI+Enthusiast;Compilando+ideias+em+c%C3%B3digo+desde+20XX" alt="Typing SVG" />
 </a>
 
 <br/><br/>
