@@ -202,42 +202,13 @@ felipeguti667@github:~$ ./roadmap_2026.sh
 
 ## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"/> `> analytics --render`
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=00F0FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2" />
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!-- GITHUB TROPHIES -->
-<!-- ============================================================ -->
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"/> `> achievements --unlocked`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7" />
-
-</div>
 
 ---
 
 <!-- ============================================================ -->
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 <!-- ============================================================ -->
-
-## <img src="https://media.giphy.com/media/kH1DBFystsGSXQqcpp/giphy.gif" width="35"/> `> contribution_matrix.exe`
 
 <!--
   Para ativar esta animação:
