@@ -204,8 +204,6 @@ felipeguti667@github:~$ ./roadmap_2026.sh
 
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" />
 
----
-
 <!-- ============================================================ -->
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 <!-- ============================================================ -->
