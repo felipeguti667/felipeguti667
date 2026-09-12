@@ -149,12 +149,12 @@ filosofia: "Construir hoje a tecnologia de amanhã"
 <tr>
 <td width="50%">
 
-### 🚀 [Jogo-da-forca](git@github.com:felipeguti667/Jogo-forca.git)
+### 🚀 [Jogo-da-forca](https://github.com/felipeguti667/Jogo-forca.git)
 > Jogo da forca com diversas palavras aleatórias para se divertir.
 
 `Python`
 
-[![Repo](https://img.shields.io/badge/-Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=00F0FF)](git@github.com:felipeguti667/Jogo-forca.git)
+[![Repo](https://img.shields.io/badge/-Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/felipeguti667/Jogo-forca.git)
 
 </td>
 <td width="50%">
@@ -261,7 +261,7 @@ felipeguti667@github:~$ ./roadmap_2026.sh
 <a href="mailto:felipeguti667@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-<a href="git@github.com:felipeguti667/doacao-animais.git" target="_blank">
+<a href="https://github.com/felipeguti667/doacao-animais.git" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=00F0FF" />
 </a>
 <a href="https://discord.com/users/Gutitale" target="_blank">
