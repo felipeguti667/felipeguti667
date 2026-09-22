@@ -77,7 +77,7 @@ filosofia: "Construir hoje a tecnologia de amanhã"
 <div align="center">
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,redux,vite&theme=dark" />
@@ -149,22 +149,22 @@ filosofia: "Construir hoje a tecnologia de amanhã"
 <tr>
 <td width="50%">
 
-### 🚀 [Jogo-da-forca](https://github.com/felipeguti667/Jogo-forca.git)
-> Jogo da forca com diversas palavras aleatórias para se divertir.
+### 🚀 [Formulario-de-Cadastro](https://github.com/felipeguti667/Formul-rio-de-Cadastro.git)
+> Formulário de Cadastro responsivo com validações
 
-`Python`
+`HTML` `CSS` `JavaScript`
 
-[![Repo](https://img.shields.io/badge/-Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/felipeguti667/Jogo-forca.git)
+[![Repo](https://img.shields.io/badge/-Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/felipeguti667/Formul-rio-de-Cadastro.git)
 
 </td>
 <td width="50%">
 
-### 🔐 [Em progresso...](link-do-projeto-4)
-> ...
+### 🔐 [python_orientado_objetos(Youtube)](https://github.com/felipeguti667/python_orientado_objetos.py.git)
+> Codigo python que silumando o youtube com criacão de canais,videos,playlists,usuarios.
 
-`.` `.` `.`
+`Python`
 
-[![Repo](https://img.shields.io/badge/-Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=00F0FF)](link-do-projeto-4)
+[![Repo](https://img.shields.io/badge/-Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=00F0FF)]([link-do-projeto-4](https://github.com/felipeguti667/python_orientado_objetos.py.git))
 
 </td>
 </tr>
