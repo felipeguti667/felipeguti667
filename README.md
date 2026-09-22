@@ -164,7 +164,7 @@ filosofia: "Construir hoje a tecnologia de amanhã"
 
 `Python`
 
-[![Repo](https://img.shields.io/badge/-Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=00F0FF)]([link-do-projeto-4](https://github.com/felipeguti667/python_orientado_objetos.py.git))
+[![Repo](https://img.shields.io/badge/-Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=00F0FF)]((https://github.com/felipeguti667/python_orientado_objetos.py.git))
 
 </td>
 </tr>
